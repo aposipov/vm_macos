@@ -20,4 +20,4 @@ VBoxManage list vms --long
 https://support.apple.com/ru-ru/HT201372  
 https://www.imymac.com/ru/mac-tips/mac-os-high-sierra-download-dmg.html  
   
-kpartx linux util for img dmg iso  
+kpartx -avf linux util for img dmg iso  
